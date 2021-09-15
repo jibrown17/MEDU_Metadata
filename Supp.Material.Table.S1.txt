@@ -1,0 +1,389 @@
+"Table S1. Sample information including scientific name based on nuclear assignment, sex, date of collection, and latitude and longitude of sampling location. Plumage scores for samples with available data are also provided. Per sample accession numbers associated with raw mtDNA and nuclear Illumina Hiseq data are provided."														
+Sample.ID	Scientific_Name	Common_Name	Nuclear_Group	Plumage_Score	Sex	Age	Country	State/Province	Longitude	Latitude	Date Collected	Genbank mtDNA Accession Num.	Genbank ddRAD Raw Read SRA	Genbank ddRAD Raw Read Accession Num.
+PL3235	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	20-Jul-17	MN734494	PRJNA591912	SAMN13391112
+PL6004	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	25-Aug-17	MN734496	PRJNA591912	SAMN13391113
+PL6005	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Male		United States	TX	31.820773	-106.563246	25-Aug-17	MN734497	PRJNA591912	SAMN13391114
+PL6006	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Male		United States	TX	31.820773	-106.563246	25-Aug-17	MN734498	PRJNA591912	SAMN13391115
+PL6010	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	19-Sep-17	MN734499	PRJNA591912	SAMN13391116
+PL6011	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Male		United States	TX	31.820773	-106.563246	19-Sep-17	MN734500	PRJNA591912	SAMN13391117
+PL6012	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Male		United States	TX	31.820773	-106.563246	19-Sep-17	MN734501	PRJNA591912	SAMN13391118
+PL6013	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	19-Sep-17	MN734502	PRJNA591912	SAMN13391119
+PL6014	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	19-Sep-17	MN734503	PRJNA591912	SAMN13391120
+PL6017	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Male		United States	TX	31.820773	-106.563246	22-Sep-17	MN734504	PRJNA591912	SAMN13391121
+PL6018	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Male		United States	TX	31.820773	-106.563246	22-Sep-17	MN734505	PRJNA591912	SAMN13391122
+PL6019	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	22-Sep-17	MN734506	PRJNA591912	SAMN13391123
+PL6020	Anas platyrhynchos domesticus	Feral Khaki Cambpell	Domestic Mallard 1	Unavailable Data	Female		United States	TX	31.820773	-106.563246	22-Sep-17	MN734507	PRJNA591912	SAMN13391124
+PL3200	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734475	PRJNA591912	SAMN13391125
+PL3201	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734476	PRJNA591912	SAMN13391126
+PL3202	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734477	PRJNA591912	SAMN13391127
+PL3203	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734478	PRJNA591912	SAMN13391128
+PL3204	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734479	PRJNA591912	SAMN13391129
+PL3205	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734480	PRJNA591912	SAMN13391130
+PL3206	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734481	PRJNA591912	SAMN13391131
+PL3207	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734482	PRJNA591912	SAMN13391132
+PL3208	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734483	PRJNA591912	SAMN13391133
+PL3210	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734485	PRJNA591912	SAMN13391134
+PL3211	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734486	PRJNA591912	SAMN13391135
+PL3212	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734487	PRJNA591912	SAMN13391136
+PL3213	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734488	PRJNA591912	SAMN13391137
+PL3214	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734489	PRJNA591912	SAMN13391138
+PL3215	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734490	PRJNA591912	SAMN13391139
+PL3216	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734491	PRJNA591912	SAMN13391140
+PL3217	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	KY	37.802659	-84.926963	15-Feb-17	MN734492	PRJNA591912	SAMN13391141
+PL3219	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	KY	37.802659	-84.926963	15-Feb-17	MN734493	PRJNA591912	SAMN13391142
+JIBNJ001	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734444	PRJNA591912	SAMN13391143
+JIBNJ002	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734445	PRJNA591912	SAMN13391144
+JIBNJ003	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734446	PRJNA591912	SAMN13391145
+JIBNJ004	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734447	PRJNA591912	SAMN13391146
+JIBNJ005	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734448	PRJNA591912	SAMN13391147
+JIBNJ006	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734449	PRJNA591912	SAMN13391148
+JIBNJ007	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734450	PRJNA591912	SAMN13391149
+JIBNJ008	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734451	PRJNA591912	SAMN13391150
+JIBNJ009	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734452	PRJNA591912	SAMN13391151
+JIBNJ010	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734453	PRJNA591912	SAMN13391152
+JIBNJ011	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734454	PRJNA591912	SAMN13391153
+JIBNJ012	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734455	PRJNA591912	SAMN13391154
+JIBNJ013	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734456	PRJNA591912	SAMN13391155
+JIBNJ014	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734457	PRJNA591912	SAMN13391156
+JIBNJ015	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734458	PRJNA591912	SAMN13391157
+JIBNJ016	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734459	PRJNA591912	SAMN13391158
+JIBNJ017	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734460	PRJNA591912	SAMN13391159
+JIBNJ018	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734461	PRJNA591912	SAMN13391160
+JIBNJ019	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734462	PRJNA591912	SAMN13391161
+JIBNJ020	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734463	PRJNA591912	SAMN13391162
+JIBNJ021	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734464	PRJNA591912	SAMN13391163
+JIBNJ022	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734465	PRJNA591912	SAMN13391164
+JIBNJ023	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734466	PRJNA591912	SAMN13391165
+JIBNJ024	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734467	PRJNA591912	SAMN13391166
+JIBNJ025	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734468	PRJNA591912	SAMN13391167
+JIBNJ026	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734469	PRJNA591912	SAMN13391168
+JIBNJ027	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734470	PRJNA591912	SAMN13391169
+JIBNJ028	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734471	PRJNA591912	SAMN13391170
+JIBNJ029	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Male		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734472	PRJNA591912	SAMN13391171
+JIBNJ030	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734473	PRJNA591912	SAMN13391172
+JIBNJ031	Anas platyrhynchos domesticus	Game-Farm Mallard	Domestic Mallard 2	Unavailable Data	Female		United States	NJ	40.051487	-74.504385	2-Dec-17	MN734474	PRJNA591912	SAMN13391173
+UAMX1739	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	NA	United States	AK	52.8763	-172.8905	1-Jun-01	MK425493	PRJNA516035	SAMN10781574 
+REW624	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	NA	United States	AK	67.14114	-150.35586	6-Sep-05	KF857646	PRJNA516035	SAMN10781573 
+UAMX3170	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	NA	United States	AK	60.337778	-151	2002	KF857649	PRJNA516035	SAMN10781575 
+UAMX806	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	HY	United States	AK	64.8	-147.7	Unk	TBD	TBD	TBD
+UAMX812	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	NA	United States	AK	64.8	-147.7	29-Apr-99	MK425495	PRJNA516035	SAMN10781577 
+KGM1421	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	HY	Canada	Alberta	54.5	-110.2	23-Oct-06	MK425376	PRJNA516035	SAMN10781304 
+KGM1422	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	Canada	Alberta	53.1	-111.8	22-Sep-06	MK425377	PRJNA516035	SAMN10781305 
+KGM1423	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	HY	Canada	Alberta	54.5	-110.2	23-Oct-06	MK425378	PRJNA516035	SAMN10781306 
+KGM1424	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	AHY	Canada	Alberta	53.1	-111.8	15-Sep-06	MK425379	PRJNA516035	SAMN10781307 
+KGM1412	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	AHY	Canada	Alberta	49.9	-113.1	30-Oct-06	MK425374	PRJNA516035	SAMN10781302 
+KGM1414	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	HY	Canada	Alberta	49.2	-113.3	28-Oct-06	MK425375	PRJNA516035	SAMN10781303 
+KGM1429	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Male	AHY	Canada	British Columbia	49.2	-122.2	28-Oct-06	MK425381	PRJNA516035	SAMN10781309 
+KGM1427	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	HY	Canada	British Columbia	49.1	-122	30-Dec-06	MK425380	PRJNA516035	SAMN10781308 
+CAMall01	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	United States	California	39.3299	-121.914	2004	Not Sequenced	 PRJNA295689	SAMN04095855
+CAMall05	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	United States	California	39.3299	-121.914	2004	Not Sequenced	 PRJNA295689	SAMN04095854
+CAMall12	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	United States	California	39.3299	-121.914	2004	Not Sequenced	 PRJNA295689	SAMN04095853
+CAMall17	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	Unk	United States	California	39.3299	-121.914	2004	Not Sequenced	 PRJNA295689	SAMN04095856
+PL121516	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Adult	United States	California	37.287222	-120.890657	15-Dec-16	TBD	TBD	TBD
+PL861	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	I	United States	CT	41.3517	-72.4161	16-Oct-09	Not Sequenced	 PRJNA295689	SAMN04095862
+PL3220	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	AHY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3221	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3222	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Male	AHY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3223	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3224	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3225	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3226	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL3227	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	NA	United States	Kentucky	37.0419	-89.0896	17-Feb-17	TBD	TBD	TBD
+PL923	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	A	United States	ME	43.9194	-70.4667	9-Nov-09	MK425484	 PRJNA295689	SAMN04095863
+PL962	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	I	United States	ME	44.96644167	-70.77368056	6-Oct-09	MK425490	PRJNA516035	SAMN10781561 
+JIBCan001	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	NA	Canada	Manitoba	50.19871	-98.21405	21-Oct-17	TBD	TBD	TBD
+JIBCan002	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	NA	Canada	Manitoba	50.19871	-98.21405	21-Oct-17	TBD	TBD	TBD
+JIBCan003	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	NA	Canada	Manitoba	50.19871	-98.21405	21-Oct-17	TBD	TBD	TBD
+JIBCan004	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	NA	Canada	Manitoba	50.19871	-98.21405	21-Oct-17	TBD	TBD	TBD
+JIBCan005	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	AHY	Canada	Manitoba	50.19871	-98.21405	21-Oct-17	TBD	TBD	TBD
+JIBCan006	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	AHY	Canada	Manitoba	50.19871	-98.21405	21-Oct-17	TBD	TBD	TBD
+KGM1383	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	Unk	Canada	Manitoba	50.1	-100.4	19-Oct-06	MK425362	PRJNA516035	SAMN10781290 
+KGM1387	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	Canada	Manitoba	50.1	-98.25	23-Sep-06	MK425363	PRJNA516035	SAMN10781291 
+KGM1388	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	Canada	Manitoba	50.1	-98.25	9-Sep-06	MK425364	PRJNA516035	SAMN10781292 
+KGM1390	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	AHY	Canada	Manitoba	50.1	-100.4	20-Oct-06	MK425365	PRJNA516035	SAMN10781293 
+KGM1392	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	Canada	Manitoba	51.1	-99.8	23-Sep-06	MK425366	PRJNA516035	SAMN10781294 
+KGM1393	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	AHY	Canada	Manitoba	51.1	-100.8	12-Oct-06	MK425367	PRJNA516035	SAMN10781295 
+PL944	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	A	United States	NJ	40.345	-74.48055556	13-Oct-09	MK425489	PRJNA516035	SAMN10781552 
+PL112316	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Immature	United States	NM	32.953968	-107.295992	23-Nov-16	TBD	TBD	TBD
+PL121317	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Immature	United States	NM	32.141221	-106.699413	13-Dec-17	TBD	TBD	TBD
+PL824	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	I	United States	NY	42.6839	-76.9572	5-Dec-09	Not Sequenced	SRP064125	SRX1281069
+PL832	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Male	I	United States	NY	44.33583333	-75.91472222	1-Dec-09	MK425459	PRJNA516035	SAMN10781510 
+PL844	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	A	United States	NY	41.8528	-73.9222	26-Nov-09	MK425462	PRJNA516035	SAMN10781513 
+PL701	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Male	A	United States	NC	35.92055556	-79.08388889	8-Oct-09	MK425450	PRJNA516035	SAMN10781445 
+PL262	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	I	United States	ND	48.81	-103.49	19-Oct-09	MK425397	PRJNA516035	SAMN10781364 
+PL263	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	I	United States	ND	48.034722	-98.944167	17-Nov-09	MK425398	PRJNA516035	SAMN10781365 
+PL264	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	I	United States	ND	45.978889	-97.810278	16-Nov-09	MK425399	PRJNA516035	SAMN10781366 
+PL266	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	I	United States	ND	45.978889	-97.810278	15-Nov-09	MK425401	PRJNA516035	SAMN10781368 
+KGM1395	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	HY	Canada	Saskatchewan	52.1	-106.7	25-Oct-06	MK425368	PRJNA516035	SAMN10781296 
+KGM1400	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	Unk	Canada	Saskatchewan	53.3	-110	9-Sep-06	MK425369	PRJNA516035	SAMN10781297 
+KGM1404	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	Unk	Canada	Saskatchewan	52	-107	30-Oct-06	MK425370	PRJNA516035	SAMN10781298 
+KGM1405	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	Unk	Canada	Saskatchewan	54.27	-110.8	4-Nov-06	MK425371	PRJNA516035	SAMN10781299 
+KGM1406	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	Canada	Saskatchewan	52.1	-106.7	17-Oct-06	MK425372	PRJNA516035	SAMN10781300 
+KGM1407	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	Unk	Canada	Saskatchewan	50.8	-104.9	10-Nov-06	MK425373	PRJNA516035	SAMN10781301 
+PL267	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	I	United States	SD	45.333611	-97.519444	4-Nov-09	MK425402	PRJNA516035	SAMN10781369 
+PL269	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Male	A	United States	SD	45.333611	-97.519444	2009	MK425404	PRJNA516035	SAMN10781371 
+PL270	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Male	I	United States	SD	44.228333	-97.308889	15-Nov-09	MK425405	PRJNA516035	SAMN10781372 
+PL272	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	I	United States	SD	45.333611	-97.519444	7-Nov-09	MK425407	PRJNA516035	SAMN10781374 
+PL852	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	Unavailable Data	Female	A	United States	VT	44.9442	-72.2044	10-Oct-09	MK425464	PRJNA516035	SAMN10781515 
+DICA012718	Anas platyrhynchos	Wild Mallard	Wild Mallard	Unavailable Data	Female	Adult	United States	California	37.198227	-120.902249	27-Jan-18	TBD	TBD	TBD
+PL120516	Anas diazi	Mexican duck	Northern	Unavailable Data	Male	A	United States	California	37.287222	-120.890657	5-Dec-16	TBD	TBD	TBD
+BF3	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Female	NA	United States	New Mexico	33.80211	-106.8784	14-Apr-17	TBD	TBD	TBD
+BM11	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	24-Jul-17	TBD	TBD	TBD
+BM12	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	25-Jul-17	TBD	TBD	TBD
+BM13	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	27-Jul-17	TBD	TBD	TBD
+BM7	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	17-Jul-17	TBD	TBD	TBD
+BF6	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Female	NA	United States	New Mexico	33.80211	-106.8784	17-Jul-17	TBD	TBD	TBD
+KGM946	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	Unk	United States	New Mexico	33.2333	-107.317	2003	KT762016	 PRJNA295689	SAMN04095874
+PL3243	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	AHY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+PL6030	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Female	AHY	United States	Texas	31.82367	-106.565	23-Feb-18	TBD	TBD	TBD
+PL6027	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	AHY	United States	Texas	31.82367	-106.565	2-Feb-18	TBD	TBD	TBD
+PL6031	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	AHY	United States	Texas	31.82367	-106.565	23-Feb-18	TBD	TBD	TBD
+PL6032	Anas platyrhynchos	Wild Mallard	WILD.MALL	Unavailable Data	Male	AHY	United States	Texas	31.82367	-106.565	20-Apr-18	TBD	TBD	TBD
+PL508	MX.FERAL	Mexican duck x Feral Park Mallard Hybrid	Mexican duck x Feral Park Mallard Hybrid	Unavailable Data	Female	A	United States	New Mexico	34.72	-106.8	5-Dec-09	KT762107	 PRJNA295689	SAMN04095867
+PL6015	MX.FERAL	Mexican duck x Feral Park Mallard Hybrid	Mexican duck x Feral Park Mallard Hybrid	7	Female	AHY	United States	Texas	31.82367	-106.565	22-Sep-17	TBD	TBD	TBD
+PL3218	MX.FERAL	Mexican duck x Feral Park Mallard Hybrid	Mexican duck x Feral Park Mallard Hybrid	Unavailable Data	Female	NA	United States	Texas	31.82367	-106.565	14-Aug-17	TBD	TBD	TBD
+PL3246	MX.FERAL	Mexican duck x Feral Park Mallard Hybrid	Mexican duck x Feral Park Mallard Hybrid	Unavailable Data	Female	HY	United States	Texas	31.82367	-106.565	25-Aug-17	TBD	TBD	TBD
+BF8	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	6	Female	NA	United States	New Mexico	33.80211	-106.8784	27-Jul-17	TBD	TBD	TBD
+BF9	Anas platyrhynchos	Wild Mallard	Wild x Feral Mallard	6	Female	NA	United States	New Mexico	33.80211	-106.8784	27-Jul-17	TBD	TBD	TBD
+BM10	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	20-Jul-17	TBD	TBD	TBD
+BF7	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	7	Female	NA	United States	New Mexico	33.80211	-106.8784	20-Jul-17	TBD	TBD	TBD
+BF2	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Female	NA	United States	New Mexico	33.80211	-106.8784	13-Apr-17	TBD	TBD	TBD
+BF1	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Female	NA	United States	New Mexico	33.80211	-106.8784	12-Apr-17	TBD	TBD	TBD
+PL6016	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	6	Female	AHY	United States	Texas	31.82367	-106.565	22-Sep-17	TBD	TBD	TBD
+PL6000	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	8	Female	HY	United States	Texas	31.82367	-106.565	25-Aug-17	TBD	TBD	TBD
+PL6002	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	16	Male	AHY	United States	Texas	31.82367	-106.565	25-Aug-17	TBD	TBD	TBD
+PL6036	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	18	Male	AHY	United States	Texas	31.82367	-106.565	25-May-18	TBD	TBD	TBD
+PL3247	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	5	Female	AHY	United States	Texas	31.82367	-106.565	25-Aug-17	TBD	TBD	TBD
+BF5	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Female	NA	United States	New Mexico	33.80211	-106.8784	17-Jul-17	TBD	TBD	TBD
+BM4	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	10-Jul-17	TBD	TBD	TBD
+PL6007	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	5	Male	AHY	United States	Texas	31.82367	-106.565	13-Sep-17	TBD	TBD	TBD
+BM9	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	9-Jul-17	TBD	TBD	TBD
+BM5	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	10-Jul-17	TBD	TBD	TBD
+KGM968	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Female	Unk	United States	Texas	31.7903	-106.423	2003	KT762019	 PRJNA295689	SAMN04095877
+PL6009	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	7	Male	HY	United States	Texas	31.82367	-106.565	13-Sep-17	TBD	TBD	TBD
+PL3241	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	9	Male	AHY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+PL6024	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	13	Male	AHY	United States	Texas	31.82367	-106.565	19-Jan-18	TBD	TBD	TBD
+PL6025	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	8	Male	HY	United States	Texas	31.82367	-106.565	2-Feb-18	TBD	TBD	TBD
+PL3233	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	Unavailable Data	Male	AHY	United States	Texas	31.82367	-106.565	28-Jul-17	TBD	TBD	TBD
+PL3239	Anas platyrhynchos x Anas diazi	Mexican duck x Wild Mallard Hybrid	Mexican duck x Wild Mallard Hybrid	6	Female	HY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+PL538	Anas diazi	Mexican Duck	Northern	Unavailable Data	Female	I	United States	New Mexico	34.02	-106.93	9-Jan-10	KT762110	 PRJNA295689	SAMN04095870
+PL680	Anas diazi	Mexican Duck	Northern	Unavailable Data	Female	I	United States	New Mexico	34.02	-106.93	30-Oct-09	KT762111	 PRJNA295689	SAMN04095871
+KGM927	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	Unk	United States	New Mexico	32.3122	-106.778	2003	KT762014	 PRJNA295689	SAMN04095872
+PL513	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	A	United States	New Mexico	34.72	-106.8	12-Nov-09	KT762108	 PRJNA295689	SAMN04095868
+KGM969	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	Unk	United States	New Mexico	33.2333	-107.317	2003	KT762020	 PRJNA295689	SAMN04095878
+PL111117	Anas diazi	Mexican Duck	Northern	Unavailable Data	Unk	NA	United States	New Mexico	32.11799	-106.675044	11-Nov-17	TBD	TBD	TBD
+PL3236	Anas diazi	Mexican Duck	Northern	Unavailable Data	Female	AHY	United States	Texas	31.82367	-106.565	14-Aug-17	TBD	TBD	TBD
+BF10	Anas diazi	Mexican Duck	Northern	Unavailable Data	Female	NA	United States	New Mexico	33.80211	-106.8784	11-Jan-18	TBD	TBD	TBD
+PL3240	Anas diazi	Mexican Duck	Northern	4	Male	HY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+LENM5	Anas diazi	Mexican Duck	Northern	Unavailable Data	Unk	NA	United States	New Mexico	32.344811	-106.857902	2017	TBD	TBD	TBD
+KGM954	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	Unk	United States	New Mexico	32.3122	-106.778	2003	KT762017	 PRJNA295689	SAMN04095875
+PL3229	Anas diazi	Mexican Duck	Northern	4	Male	AHY	United States	Texas	31.82367	-106.565	14-Aug-17	TBD	TBD	TBD
+LENM6	Anas diazi	Mexican Duck	Northern	Unavailable Data	Unk	NA	United States	New Mexico	32.344811	-106.857902	2017	TBD	TBD	TBD
+LENM4	Anas diazi	Mexican Duck	Northern	Unavailable Data	Unk	NA	United States	New Mexico	32.344811	-106.857902	2017	TBD	TBD	TBD
+PL532	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	A	United States	New Mexico	32.3122	-106.778	13-Nov-09	KT762109	 PRJNA295689	SAMN04095869
+PL6001	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	HY	United States	Texas	31.82367	-106.565	25-Aug-17	TBD	TBD	TBD
+BM6	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	13-Jul-17	TBD	TBD	TBD
+KGM933	Anas diazi	Mexican Duck	Northern	Unavailable Data	Female	Unk	United States	Texas	31.7903	-106.423	2003	KT762015	 PRJNA295689	SAMN04095873
+PL3234	Anas diazi	Mexican Duck	Northern	4	Male	HY	United States	Texas	31.82367	-106.565	28-Jul-17	TBD	TBD	TBD
+KGM965	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	Unk	United States	New Mexico	32.2611	-107.756	2003	KT762018	 PRJNA295689	SAMN04095876
+JAT1000	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	Unk	United States	Texas	30.5377	-103.801	25-May-11	KT762013	 PRJNA295689	SAMN04095866
+PL3245	Anas diazi	Mexican Duck	Northern	3	Male	AHY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+PL3230	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	AHY	United States	Texas	31.82367	-106.565	14-Aug-17	TBD	TBD	TBD
+PL3231	Anas diazi	Mexican Duck	Northern	2	Female	HY	United States	Texas	31.82367	-106.565	20-Jul-17	TBD	TBD	TBD
+PL3232	Anas diazi	Mexican Duck	Northern	1	Female	HY	United States	Texas	31.82367	-106.565	20-Jul-17	TBD	TBD	TBD
+PL3228	Anas diazi	Mexican Duck	Northern	3	Female	HY	United States	Texas	31.82367	-106.565	20-Jul-17	TBD	TBD	TBD
+PL3237	Anas diazi	Mexican Duck	Northern	1	Female	AHY	United States	Texas	31.82367	-106.565	14-Aug-17	TBD	TBD	TBD
+PL3244	Anas diazi	Mexican Duck	Northern	2	Male	AHY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+BM1	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	5-Apr-17	TBD	TBD	TBD
+PL6029	Anas diazi	Mexican Duck	Northern	2	Female	HY	United States	Texas	31.82367	-106.565	23-Feb-18	TBD	TBD	TBD
+PL6023	Anas diazi	Mexican Duck	Northern	7	Male	AHY	United States	Texas	31.82367	-106.565	19-Jan-18	TBD	TBD	TBD
+BM14	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	14-Dec-17	TBD	TBD	TBD
+BF11	Anas diazi	Mexican Duck	Northern	8	Female	NA	United States	New Mexico	33.80211	-106.8784	21-Feb-18	TBD	TBD	TBD
+BF4	Anas diazi	Mexican Duck	Northern	5	Female	NA	United States	New Mexico	33.80211	-106.8784	13-Jul-17	TBD	TBD	TBD
+PL6028	Anas diazi	Mexican Duck	Northern	2	Male	AHY	United States	Texas	31.82367	-106.565	23-Feb-18	TBD	TBD	TBD
+PL3242	Anas diazi	Mexican Duck	Northern	2	Male	AHY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+JIBTX001	Anas diazi	Mexican Duck	Northern	2	Female	AHY	United States	Texas	31.75706	-106.2862	10-Nov-17	TBD	TBD	TBD
+BM8	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	20-Jul-17	TBD	TBD	TBD
+PL6008	Anas diazi	Mexican Duck	Northern	4	Male	AHY	United States	Texas	31.82367	-106.565	13-Sep-17	TBD	TBD	TBD
+PL6022	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	HY	United States	Texas	31.82367	-106.565	13-Oct-17	TBD	TBD	TBD
+PL6021	Anas diazi	Mexican Duck	Northern	4	Male	AHY	United States	Texas	31.82367	-106.565	23-Sep-17	TBD	TBD	TBD
+BM2	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	12-Apr-17	TBD	TBD	TBD
+BM3	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	NA	United States	New Mexico	33.80211	-106.8784	13-Apr-17	TBD	TBD	TBD
+PL3238	Anas diazi	Mexican Duck	Northern	2	Female	HY	United States	Texas	31.82367	-106.565	16-Aug-17	TBD	TBD	TBD
+PL3004	Anas diazi	Mexican Duck	Northern	1	F	Adult	Mexico	Mexico	28.180433	-106.902733	26-Jan-17	TBD	TBD	TBD
+PL3097	Anas diazi	Mexican Duck	Northern	1	F	Juvenile	Mexico	Mexico	28.120683	-106.9516	29-Jan-17	TBD	TBD	TBD
+PL3005	Anas diazi	Mexican Duck	W.Coast	2	M	Adult	Mexico	Mexico	28.180433	-106.902733	26-Jan-17	TBD	TBD	TBD
+PL3007	Anas diazi	Mexican Duck	Northern	3	F	Juvenile	Mexico	Mexico	28.180433	-106.902733	26-Jan-17	TBD	TBD	TBD
+PL3008	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.180433	-106.902733	26-Jan-17	TBD	TBD	TBD
+PL3009	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.114883	-106.9887	26-Jan-17	TBD	TBD	TBD
+PL3011	Anas diazi	Mexican Duck	Northern	1	F	Juvenile	Mexico	Mexico	28.114883	-106.9887	26-Jan-17	TBD	TBD	TBD
+PL3012	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.114883	-106.9887	26-Jan-17	TBD	TBD	TBD
+PL3013	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.114883	-106.9887	26-Jan-17	TBD	TBD	TBD
+PL3014	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.114883	-106.9887	26-Jan-17	TBD	TBD	TBD
+PL3020	Anas diazi	Mexican Duck	Northern	2	M	Juvenile	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3021	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3022	Anas diazi	Mexican Duck	Northern	1	F	NA	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3023	Anas diazi	Mexican Duck	Northern	2	M	Juvenile	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3024	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3025	Anas diazi	Mexican Duck	Northern	1	M	Juvenile	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3026	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3027	Anas diazi	Mexican Duck	Northern	1	M	Juvenile	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3028	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3029	Anas diazi	Mexican Duck	Northern	3	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3030	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3031	Anas diazi	Mexican Duck	W.Coast	1	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3035	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3036	Anas diazi	Mexican Duck	Northern	8	M	Juvenile	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3037	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3038	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3039	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3040	Anas diazi	Mexican Duck	Northern	1	F	Juvenile	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3042	Anas diazi	Mexican Duck	Northern	1	F	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3043	Anas diazi	Mexican Duck	Northern	2	M	Juvenile	Mexico	Mexico	28.2231	-106.996217	27-Jan-17	TBD	TBD	TBD
+PL3044	Anas diazi	Mexican Duck	Northern	2	M	Juvenile (?)	Mexico	Mexico	28.2231	-106.996217	27-Jan-17	TBD	TBD	TBD
+PL3045	Anas diazi	Mexican Duck	Northern	3	M	Adult	Mexico	Mexico	28.2231	-106.996217	27-Jan-17	TBD	TBD	TBD
+PL3046	Anas diazi	Mexican Duck	W.Coast	0	F	Adult	Mexico	Mexico	28.180433	-106.902733	27-Jan-17	TBD	TBD	TBD
+PL3047	Anas diazi	Mexican Duck	Northern	1	M	Juvenile	Mexico	Mexico	28.180433	-106.902733	27-Jan-17	TBD	TBD	TBD
+PL3049	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3050	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3051	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3052	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3053	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3054	Anas diazi	Mexican Duck	Northern	3	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3056	Anas diazi	Mexican Duck	Northern	3	M	Juvenile	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3057	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3059	Anas diazi	Mexican Duck	Northern	1	F	Juvenile	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3060	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3061	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3062	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3063	Anas diazi	Mexican Duck	Northern	1	F	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3064	Anas diazi	Mexican Duck	Northern	0	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3058	Anas diazi	Mexican Duck	Northern	0	F	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3066	Anas diazi	Mexican Duck	W.Coast	0	M	Juvenile	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3067	Anas diazi	Mexican Duck	Northern	1	F	Juvenile	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3068	Anas diazi	Mexican Duck	Northern	1	M	Juvenile	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3069	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	27-Jan-17	TBD	TBD	TBD
+PL3077	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3078	Anas diazi	Mexican Duck	Northern	0	M	Juvenile	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3079	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3080	Anas diazi	Mexican Duck	Northern	0	F	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3081	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3082	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3083	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3084	Anas diazi	Mexican Duck	Northern	Unavailable Data	M	Adult	Mexico	Mexico	28.120683	-106.9516	28-Jan-17	TBD	TBD	TBD
+PL3087	Anas diazi	Mexican Duck	Northern	0	F	Adult	Mexico	Mexico	28.152783	-106.983567	28-Jan-17	TBD	TBD	TBD
+PL3088	Anas diazi	Mexican Duck	Northern	Unavailable Data	M	Juvenile	Mexico	Mexico	28.152783	-106.983567	28-Jan-17	TBD	TBD	TBD
+PL3089	Anas diazi	Mexican Duck	Northern	1	M	Adult	Mexico	Mexico	28.152783	-106.983567	28-Jan-17	TBD	TBD	TBD
+PL3096	Anas diazi	Mexican Duck	Northern	0	F	Adult	Mexico	Mexico	28.120683	-106.9516	29-Jan-17	TBD	TBD	TBD
+PL3098	Anas diazi	Mexican Duck	Northern	1	M	Juvenile	Mexico	Mexico	28.120683	-106.9516	29-Jan-17	TBD	TBD	TBD
+PL3041	Anas diazi	Mexican Duck	Northern	2	M	Adult	Mexico	Mexico	28.1709	-106.92745	27-Jan-17	TBD	TBD	TBD
+PL3090	Anas platyrhynchos	Mexican Duck	Wild.MALL	7	Female	AHY	Mexico	Chihuahua	28.15278	-106.9836	28-Jan-17	TBD	TBD	TBD
+PL3100	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	HY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3101	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3102	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	HY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3103	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3104	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3108	Anas diazi	Mexican Duck	W.Coast	1	Male	HY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3109	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3110	Anas diazi	Mexican Duck	Northern	1	Male	HY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3111	Anas diazi	Mexican Duck	W.Coast	1	Female	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3113	Anas diazi	Mexican Duck	W.Coast	0	Female	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3114	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3115	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Female	AHY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3116	Anas diazi	Mexican Duck	W.Coast	Unavailable Data	Male	AHY	Mexico	Sinaloa	24.438402	-107.457736	2017	TBD	TBD	TBD
+PL3117	Anas diazi	Mexican Duck	W.Coast	1	Male	AHY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3118	Anas diazi	Mexican Duck	W.Coast	1	Male	HY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3119	Anas diazi	Mexican Duck	W.Coast	1	Male	HY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3121	Anas diazi	Mexican Duck	W.Coast	0	Female	AHY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL3122	Anas diazi	Mexican Duck	W.Coast	0	Male	AHY	Mexico	Sinaloa	25.390542	-108.333867	2018	TBD	TBD	TBD
+PL1000	Anas diazi	Mexican Duck	W.Coast	2	Male	A	Mexico	Sonora	27.3494	-109.988	4-Feb-12	KT762021	 PRJNA295689	SAMN04095879
+PL1002	Anas diazi	Mexican Duck	W.Coast	2	Male	A	Mexico	Sonora	27.3494	-109.988	4-Feb-12	KT762023	 PRJNA295689	SAMN04095881
+PL1003	Anas diazi	Mexican Duck	W.Coast	2	Male	I	Mexico	Sonora	27.3494	-109.988	4-Feb-12	KT762024	 PRJNA295689	SAMN04095882
+PL1004	Anas diazi	Mexican Duck	Northern	4	Male	A	Mexico	Sonora	27.3494	-109.988	4-Feb-12	KT762025	 PRJNA295689	SAMN04095883
+PL1005	Anas diazi	Mexican Duck	W.Coast	4	Male	A	Mexico	Sonora	27.3494	-109.988	4-Feb-12	KT762026	 PRJNA295689	SAMN04095884
+PL1006	Anas diazi	Mexican Duck	W.Coast	1	Female	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762027	 PRJNA295689	SAMN04095885
+PL1007	Anas diazi	Mexican Duck	Northern	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762028	 PRJNA295689	SAMN04095886
+PL1008	Anas diazi	Mexican Duck	W.Coast	4	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762029	 PRJNA295689	SAMN04095887
+PL1009	Anas diazi	Mexican Duck	W.Coast	3	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762030	 PRJNA295689	SAMN04095888
+PL1010	Anas diazi	Mexican Duck	W.Coast	2	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762031	 PRJNA295689	SAMN04095889
+PL1011	Anas diazi	Mexican Duck	W.Coast	3	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762032	 PRJNA295689	SAMN04095890
+PL1012	Anas diazi	Mexican Duck	W.Coast	1	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762033	 PRJNA295689	SAMN04095891
+PL1013	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762034	 PRJNA295689	SAMN04095892
+PL1001	Anas diazi	Mexican Duck	W.Coast	2	Female	I	Mexico	Sonora	27.3494	-109.988	4-Feb-12	KT762022	 PRJNA295689	SAMN04095880
+PL1014	Anas diazi	Mexican Duck	Northern	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762035	 PRJNA295689	SAMN04095893
+PL1015	Anas diazi	Mexican Duck	W.Coast	3	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762036	 PRJNA295689	SAMN04095894
+PL1016	Anas diazi	Mexican Duck	Northern	2	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762037	 PRJNA295689	SAMN04095895
+PL1017	Anas diazi	Mexican Duck	Northern	1	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762038	 PRJNA295689	SAMN04095896
+PL1018	Anas diazi	Mexican Duck	W.Coast	1	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762039	 PRJNA295689	SAMN04095897
+PL1019	Anas diazi	Mexican Duck	W.Coast	1	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762040	 PRJNA295689	SAMN04095898
+PL1020	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762041	 PRJNA295689	SAMN04095899
+PL1021	Anas diazi	Mexican Duck	Northern	2	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762042	 PRJNA295689	SAMN04095900
+PL1022	Anas diazi	Mexican Duck	W.Coast	2	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762043	 PRJNA295689	SAMN04095901
+PL1023	Anas diazi	Mexican Duck	W.Coast	1	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762044	 PRJNA295689	SAMN04095902
+PL1024	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762045	 PRJNA295689	SAMN04095903
+PL1025	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762046	 PRJNA295689	SAMN04095904
+PL1029	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762050	 PRJNA295689	SAMN04095908
+PL1026	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762047	 PRJNA295689	SAMN04095905
+PL1027	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762048	 PRJNA295689	SAMN04095906
+PL1028	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762049	 PRJNA295689	SAMN04095907
+PL1030	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762051	 PRJNA295689	SAMN04095909
+PL1031	Anas diazi	Mexican Duck	W.Coast	4	Male	I	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762052	 PRJNA295689	SAMN04095910
+PL1032	Anas diazi	Mexican Duck	Northern	2	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762053	 PRJNA295689	SAMN04095911
+PL1034	Anas diazi	Mexican Duck	W.Coast	3	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762055	 PRJNA295689	SAMN04095913
+PL1036	Anas diazi	Mexican Duck	W.Coast	1	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762057	 PRJNA295689	SAMN04095915
+PL1037	Anas diazi	Mexican Duck	Northern	1	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762058	 PRJNA295689	SAMN04095916
+PL1038	Anas diazi	Mexican Duck	W.Coast	3	Male	A	Mexico	Sonora	27.4459	-110.15	4-Feb-12	KT762059	 PRJNA295689	SAMN04095917
+PL1039	Anas diazi	Mexican Duck	W.Coast	2	Male	I	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762060	 PRJNA295689	SAMN04095918
+PL1040	Anas diazi	Mexican Duck	W.Coast	1	Female	I	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762061	 PRJNA295689	SAMN04095919
+PL1041	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762062	 PRJNA295689	SAMN04095920
+PL1042	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762063	 PRJNA295689	SAMN04095921
+PL1043	Anas diazi	Mexican Duck	W.Coast	1	Male	I	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762064	 PRJNA295689	SAMN04095922
+PL1044	Anas diazi	Mexican Duck	W.Coast	0	Female	A	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762065	 PRJNA295689	SAMN04095923
+PL1045	Anas diazi	Mexican Duck	W.Coast	2	Male	A	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762066	 PRJNA295689	SAMN04095924
+PL1046	Anas diazi	Mexican Duck	W.Coast	0	Male	A	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762067	 PRJNA295689	SAMN04095925
+PL1047	Anas diazi	Mexican Duck	W.Coast	1	Male	I	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762068	 PRJNA295689	SAMN04095926
+PL1048	Anas diazi	Mexican Duck	W.Coast	2	Male	I	Mexico	Sonora	26.9979	-109.897	4-Feb-12	KT762069	 PRJNA295689	SAMN04095927
+PL3105	Anas diazi	Mexican Duck	Northern	Unavailable Data	Male	AHY	Mexico	Durango	0	0	2018	TBD	TBD	TBD
+PL3106	Anas diazi	Mexican Duck	Northern	1	Male	HY	Mexico	Durango	0	0	2018	TBD	TBD	TBD
+PL2033	Anas diazi	Mexican Duck	Northern	2	Male	Unk	Mexico	Durango	24.8875	-105.073	12-Jan-13	KT762101	 PRJNA295689	SAMN04095929
+PL2034	Anas diazi	Mexican Duck	Interior	0	Female	Unk	Mexico	Durango	24.8875	-105.073	12-Jan-13	KT762102	 PRJNA295689	SAMN04095930
+PL2035	Anas diazi	Mexican Duck	Northern	1	Male	Unk	Mexico	Durango	24.8875	-105.073	12-Jan-13	KT762103	 PRJNA295689	SAMN04095931
+PL2036	Anas diazi	Mexican Duck	Northern	0	Female	Unk	Mexico	Durango	24.8875	-105.073	12-Jan-13	KT762104	 PRJNA295689	SAMN04095932
+PL2037	Anas diazi	Mexican Duck	Interior	Unavailable Data	Female	Unk	Mexico	Guanajuato	21.4958	-100.659	9-Feb-13	KT762105	 PRJNA295689	SAMN04095937
+PL2038	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Guanajuato	21.4958	-100.659	9-Feb-13	KT762106	 PRJNA295689	SAMN04095938
+MMMEDU3	Anas diazi	Mexican Duck	Interior	Unavailable Data	Female	Unk	Mexico	Zacatacas	23.2928	-102.701	Unk	KJ791962	 PRJNA295689	SAMN04095933
+MMMEDU6	Anas diazi	Mexican Duck	Interior	Unavailable Data	Male	Unk	Mexico	Zacatacas	23.2928	-102.701	Unk	KF608520	 PRJNA295689	SAMN04095934
+MMMEDU7	Anas diazi	Mexican Duck	Interior	Unavailable Data	Female	Unk	Mexico	Zacatacas	23.2928	-102.701	Unk	KF608521	 PRJNA295689	SAMN04095935
+MMMEDU9	Anas diazi	Mexican Duck	Interior	Unavailable Data	Male	Unk	Mexico	Zacatacas	23.2928	-102.701	Unk	KF608522	 PRJNA295689	SAMN04095936
+PL2023	Anas diazi	Mexican Duck	Interior	1	Female	Unk	Mexico	Mexico	19.6039	-99.7033	19-Feb-13	KT762093	 PRJNA295689	SAMN04095939
+PL2024	Anas diazi	Mexican Duck	Interior	1	Female	Unk	Mexico	Mexico	19.6039	-99.7033	19-Feb-13	KT762094	 PRJNA295689	SAMN04095940
+PL2025	Anas diazi	Mexican Duck	Interior	1	Female	Unk	Mexico	Mexico	19.6039	-99.7033	19-Feb-13	KT762095	 PRJNA295689	SAMN04095941
+PL2026	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Mexico	19.6039	-99.7033	19-Feb-13	KT762096	 PRJNA295689	SAMN04095942
+PL2027	Anas diazi	Mexican Duck	Interior	2	Male	Unk	Mexico	Mexico	19.6039	-99.7033	19-Feb-13	KT762097	 PRJNA295689	SAMN04095943
+PL2028	Anas diazi	Mexican Duck	Interior	0	Female	Unk	Mexico	Mexico	19.6039	-99.7033	11-Nov-13	Failed to amplify	 PRJNA295689	SAMN04095944
+PL2029	Anas diazi	Mexican Duck	Interior	0	Female	Unk	Mexico	Mexico	19.6039	-99.7033	11-Nov-13	KT762098	 PRJNA295689	SAMN04095945
+PL2030	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Mexico	19.6039	-99.7033	11-Nov-13	KT762099	 PRJNA295689	SAMN04095946
+PL2031	Anas diazi	Mexican Duck	Interior	Unavailable Data	Male	Unk	Mexico	Mexico	19.6039	-99.7033	11-Nov-13	Failed to amplify	 PRJNA295689	SAMN04095947
+PL2032	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Mexico	19.6039	-99.7033	11-Nov-13	KT762100	 PRJNA295689	SAMN04095948
+PL2001	Anas diazi	Mexican Duck	Interior	2	Female	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762071	 PRJNA295689	SAMN04095949
+PL2003	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762073	 PRJNA295689	SAMN04095951
+PL2004	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762074	 PRJNA295689	SAMN04095952
+PL2005	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762075	 PRJNA295689	SAMN04095953
+PL2006	Anas diazi	Mexican Duck	Interior	0	Female	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762076	 PRJNA295689	SAMN04095954
+PL2007	Anas diazi	Mexican Duck	Interior	1	Female	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762077	 PRJNA295689	SAMN04095955
+PL2002	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762072	 PRJNA295689	SAMN04095950
+PL2008	Anas diazi	Mexican Duck	Interior	0	Female	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762078	 PRJNA295689	SAMN04095956
+PL2009	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762079	 PRJNA295689	SAMN04095957
+PL2010	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762080	 PRJNA295689	SAMN04095958
+PL2011	Anas diazi	Mexican Duck	Interior	2	Female	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762081	 PRJNA295689	SAMN04095959
+PL2012	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762082	 PRJNA295689	SAMN04095960
+PL2013	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762083	 PRJNA295689	SAMN04095961
+PL2014	Anas diazi	Mexican Duck	Interior	1	Female	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762084	 PRJNA295689	SAMN04095962
+PL2015	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762085	 PRJNA295689	SAMN04095963
+PL2016	Anas diazi	Mexican Duck	Interior	3	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762086	 PRJNA295689	SAMN04095964
+PL2017	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762087	 PRJNA295689	SAMN04095965
+PL2018	Anas diazi	Mexican Duck	Interior	4	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762088	 PRJNA295689	SAMN04095966
+PL2019	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762089	 PRJNA295689	SAMN04095967
+PL2020	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762090	 PRJNA295689	SAMN04095968
+PL2021	Anas diazi	Mexican Duck	Interior	1	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762091	 PRJNA295689	SAMN04095969
+PL2022	Anas diazi	Mexican Duck	Interior	0	Male	Unk	Mexico	Puebla	19.2596	-97.6659	18-Feb-13	KT762092	 PRJNA295689	SAMN04095970
